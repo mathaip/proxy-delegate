@@ -21,5 +21,4 @@ Change msg.sender = contract address in testcase.
 
 7. commit your changes to github and submit your github url
 
-Student ID: 101201831.
-Student Name: Nguyen Anh Tuan Dinh.
+
